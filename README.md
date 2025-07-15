@@ -6,8 +6,6 @@
   🚀 Apaixonado por desenvolvimento de soluções digitais criativas
 </p>
 
----
-
 ## 💡 Sobre mim
 
 Profissional criativo com background em **Publicidade e Propaganda**, agora aplicando visão estratégica, comunicação e inovação no universo da **tecnologia**.  
