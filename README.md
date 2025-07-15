@@ -13,8 +13,6 @@
 Profissional criativo com background em **Publicidade e Propaganda**, agora aplicando visão estratégica, comunicação e inovação no universo da **tecnologia**.  
 Atualmente aprimorando conhecimentos em **Java**, **JavaScript**, **Angular**, **Spring** e **SQL**.  
 
----
-
 ## 🛠️ Tecnologias & Ferramentas
 
 <p>
@@ -28,19 +26,13 @@ Atualmente aprimorando conhecimentos em **Java**, **JavaScript**, **Angular**, *
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
----
-
 ## 🎯 Objetivos
 
 📌 Conquistar uma vaga de **estágio em desenvolvimento** e ingressar na área de tecnologia.
-
----
 
 ## 🤝 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-koiti-matsushita-545006225/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matsushitakoiti@gmail.com)
-
----
 
 <p align="center">✨ Obrigado por visitar meu perfil! ✨</p>
